@@ -19,7 +19,6 @@ namespace OptimizationMethod
 
             (int index,double value) lower=(0,0);
             
-            (int index,double value) upper= (0, 0);
             
 
             for (int i = 0; i < n; i++) { a[i]=double.MaxValue; b[i]= double.MinValue; }
